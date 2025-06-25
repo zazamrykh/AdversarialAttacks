@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "0e6346efbe01e5f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "29286cfa03640f0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6af0a21b66a16f9d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "My research spring 2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "My research spring 2025"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0d4539aca84c013",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f62be164a53c31a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd543b71f0809f25",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c62531682fa01611",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "068dc0a552cc3b70",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0dfce0e9316c7963",
+    "type": "split",
+    "children": [
+      {
+        "id": "2392b1a21d8f74ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "573fb3584c761cd1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Greedy coordinate gradient.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Greedy coordinate gradient"
+            }
+          },
+          {
+            "id": "c02372d54b64e3d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Greedy coordinate gradient.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Greedy coordinate gradient"
+            }
+          },
+          {
+            "id": "c50581738100e143",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "003afed298abdc6d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Greedy coordinate gradient.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Greedy coordinate gradient"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6af0a21b66a16f9d",
+  "lastOpenFiles": [
+    "My research spring 2025.md",
+    "My research spring 2025.pdf",
+    "ppt7793.tmp",
+    "Greedy coordinate gradient.md",
+    "ppt7152.tmp",
+    "~$Research_spring 2025.pptx",
+    "Research_spring 2025.pptx",
+    "Research_spring 2025 (2).pptx",
+    "Шаблон_презентации_ИТМО_на_русском_языке.pptx",
+    "ppt8F3F.tmp",
+    "~$Research spring 2025.pptx",
+    "Research spring 2025.pptx",
+    "Pasted image 20250617002350.png",
+    "Pasted image 20250617002014.png",
+    "Pasted image 20250616223619.png",
+    "Pasted image 20250531161033.png",
+    "Pasted image 20250531160111.png",
+    "Pasted image 20250531160106.png"
+  ]
+}
